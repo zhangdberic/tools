@@ -8,7 +8,7 @@ typora -> 文件 -> 偏好设置 -> 图像
 
 设置为./images
 
-![image-20200218104305272](I:\GitHub\tools\images\image-20200218104305272.png)
+![image-20200218104705576](images/image-20200218104705576.png)
 
 在这个md文件所在的目录下创建一个images目录
 
